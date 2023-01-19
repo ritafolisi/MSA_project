@@ -37,6 +37,7 @@ This is a project developed for Statistical Methods for Machine Learning exam at
 ## Contact
 
 Rita Folisi
+<br />
 Giuseppe Lonardoni 
 
 Project Link: [https://github.com/ritafolisi/MSA_project](https://github.com/ritafolisi/MSA_project)
