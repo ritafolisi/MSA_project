@@ -1,6 +1,3 @@
-# MSA_project
-Binary classification with Machine Learning: Usage of Convolutional Neural Networks (CNNs) for classification of cats and dogs images
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -19,7 +16,7 @@ Binary classification with Machine Learning: Usage of Convolutional Neural Netwo
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Authors</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -27,7 +24,7 @@ Binary classification with Machine Learning: Usage of Convolutional Neural Netwo
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a project developed for Statistical Methods for Machine Learning exam at the University of Milan (academic year 2022-2023). In this project, we addressed the issue of binary classification, considering a dataset composed by dogs and cats images.In this scenario, our proposed approach is to employ Convolutional Neural Network frameworks, which are more suitable in case of image classification.
+This is a project developed for Statistical Methods for Machine Learning exam at the University of Milan (academic year 2022-2023). In this project, we address the issue of binary classification, considering a dataset composed by dogs and cats images.In this scenario, our proposed approach is to employ Convolutional Neural Network frameworks, which are more suitable in case of image classification.
 
 
 ### Built With
