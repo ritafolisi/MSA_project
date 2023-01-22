@@ -18,6 +18,12 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
+      <ul>
+        <li><a href="#composition-of-the-repository">Composition of the repository</a></li>
+      </ul>
+      <ul>
+        <li><a href="#initialization">Initialization</a></li>
+      </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
