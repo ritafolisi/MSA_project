@@ -1,0 +1,5 @@
+{
+    "optimizer": "sgd",
+    "activation_function": "relu",
+    "epochs": 15
+}

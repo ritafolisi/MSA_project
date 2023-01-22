@@ -1,0 +1,1 @@
+{"optimizer": "rmsprop", "activation_function": "relu", "epochs": 15}

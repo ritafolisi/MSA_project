@@ -1,0 +1,1 @@
+{"optimizer": "nadam", "activation_function": "softplus", "epochs": 12}

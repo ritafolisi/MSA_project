@@ -1,0 +1,1 @@
+{"optimizer": "adam", "activation_function": "softplus", "epochs": 15}

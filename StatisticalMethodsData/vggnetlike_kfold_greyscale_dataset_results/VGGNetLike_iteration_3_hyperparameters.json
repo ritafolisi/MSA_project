@@ -1,0 +1,5 @@
+{
+    "optimizer": "adam",
+    "activation_function": "relu",
+    "epochs": 17
+}
