@@ -37,7 +37,7 @@ This is a project developed for Statistical Methods for Machine Learning exam at
 * [OpenCV](https://docs.opencv.org/4.x/)
 
 ### Composition of the repository
-* [StatisticalMethodsData](https://colab.research.google.com/drive/1IMxAVaz4M3xBgfYMJ-d_BYU-SJ2i2gIN): folder in which all .json files about the experiments are collected.
+* [StatisticalMethodsData](https://github.com/ritafolisi/MSA_project/tree/main/StatisticalMethodsData): folder in which all .json files about the experiments are collected.
 * [Visualization](https://github.com/ritafolisi/MSA_project/tree/main/Visualizations): folder in which some visualizations generated on colab are visible. 
 
 ### Initialization
